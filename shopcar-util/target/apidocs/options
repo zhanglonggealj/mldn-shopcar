@@ -1,0 +1,24 @@
+-classpath
+'F:/maven_resp/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar;F:/maven_resp/commons-io/commons-io/2.2/commons-io-2.2.jar;F:/maven_resp/javax/servlet/jstl/1.2/jstl-1.2.jar;F:/maven_resp/commons-fileupload/commons-fileupload/1.3.2/commons-fileupload-1.3.2.jar;F:/maven_resp/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'E:/javaziliao/MLDN/MLDN李兴华/文档资料/10月份/10月5号0802_购物车开发综合案例/080201A_【★★★★★】购物车开发综合案例（启动界面）/shopcar/shopcar-util/src/main/java;E:/javaziliao/MLDN/MLDN李兴华/文档资料/10月份/10月5号0802_购物车开发综合案例/080201A_【★★★★★】购物车开发综合案例（启动界面）/shopcar/shopcar-util/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/javaziliao/MLDN/MLDN李兴华/文档资料/10月份/10月5号0802_购物车开发综合案例/080201A_【★★★★★】购物车开发综合案例（启动界面）/shopcar/shopcar-util/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'shopcar-util 0.0.1 API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'E:/javaziliao/MLDN/MLDN李兴华/文档资料/10月份/10月5号0802_购物车开发综合案例/080201A_【★★★★★】购物车开发综合案例（启动界面）/shopcar/shopcar-util/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'shopcar-util 0.0.1 API'
